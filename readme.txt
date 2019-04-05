@@ -19,7 +19,6 @@ This will automatically create the page and install the short code with link *do
 
 Simply use shortcode [rndtc_room_spy_page] in a page and publish.
 
-
 * `New version` Now shows all room data you would really need, Name, Biography, Last active, location and website.
 
 == Notes ==
