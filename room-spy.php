@@ -8,9 +8,9 @@
 * Requires at least: WordPress 4.6
 * Tested up to: WordPress 5.0, Buddypress 4.1.0
 * Version: 1.2.0
-* License: MIT
-* License URI: https://opensource.org/licenses/MIT
-* Date: 18th Febrauary 2019
+* License: GNUv3
+* License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+* Date: 05th April 2019
 */
 define('COMPARE_VERSION', '1.1.9');
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
