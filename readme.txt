@@ -4,13 +4,14 @@ Contributors: ruddernationdesigns
 Donate link: https://www.paypal.me/RuddernationDesigns
 Tags: Tinychat room spy, Tinychat, chat, room spy, wordpress chat, buddypress chat, wordpress video chat, buddypress video chat, Ruddernation, Ruddernation Designs
 Requires at least: 4.6
-Tested up to: 5.0
-Stable tag: 1.2.0
+Tested up to: 5.2
+Stable tag: 1.2.1
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 
 == Description ==
 
+This currently being created, You can get involved with it on GitHub, https://github.com/Tinychat/Tinychat-Directory/issues/1
 Allows you to check who is in a TinyChat room and who is on Video/Audio, This will show everyone that is online and on a camera, it also shows the rooms details.
 
 == Installation ==
@@ -18,6 +19,7 @@ Allows you to check who is in a TinyChat room and who is on Video/Audio, This wi
 This will automatically create the page and install the short code with link *domain name/tcroomspy*, If it does not then please read below.
 
 Simply use shortcode [rndtc_room_spy_page] in a page and publish.
+
 
 * `New version` Now shows all room data you would really need, Name, Biography, Last active, location and website.
 
