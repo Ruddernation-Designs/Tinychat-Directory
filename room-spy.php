@@ -4,15 +4,15 @@
 * Plugin URI: https://wordpress.org/plugins/tc-room-spy/
 * Author: Ruddernation Designs
 * Author URI: https://profiles.wordpress.org/ruddernationdesigns
-* Description: Please use https://www.tinychat-spy.com/directory for now while I work on the new version!.
+* Description: Please use https://www.tinychat-spy.com/directory for now while I work on the new version!. - https://github.com/Tinychat/Tinychat-Directory/issues/1
 * Requires at least: WordPress 4.6
 * Tested up to: WordPress 5.0, Buddypress 4.1.0
-* Version: 1.2.0
-* License: GNUv3
-* License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
-* Date: 05th April 2019
+* Version: 1.2.1
+* License: MIT
+* License URI: https://opensource.org/licenses/MIT
+* Date: 07th May 2019
 */
-define('COMPARE_VERSION', '1.1.9');
+define('COMPARE_VERSION', '1.2.0');
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 register_activation_hook(__FILE__, 'rndtc_room_spy_install');
 function rndtc_room_spy_install() {
