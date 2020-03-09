@@ -1,27 +1,23 @@
-=== Tinychat Directory (Coming Soon!) ===
+=== Tinychat Directory (depreciated!)===
 
 Contributors: ruddernationdesigns
 Donate link: https://www.paypal.me/RuddernationDesigns
 Tags: Tinychat room spy, Tinychat, chat, room spy, wordpress chat, buddypress chat, wordpress video chat, buddypress video chat, Ruddernation, Ruddernation Designs
-Requires at least: 4.6
-Tested up to: 5.2
-Stable tag: 1.2.1
+Requires at least: 5.0
+Tested up to: 5.4
+Stable tag: 1.2.4
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 
 == Description ==
 
-This currently being created, You can get involved with it on GitHub, https://github.com/Tinychat/Tinychat-Directory/issues/1
-Allows you to check who is in a TinyChat room and who is on Video/Audio, This will show everyone that is online and on a camera, it also shows the rooms details.
+* Due to unforeseen circumstances I've decided to discontinue this plugin, This is still available on https://www.tinychat.cf/directory
 
 == Installation ==
 
-This will automatically create the page and install the short code with link *domain name/tcroomspy*, If it does not then please read below.
+* This will automatically create the page and install the short code with link *domain name/tcroomspy*, If it does not then please read below.
 
-Simply use shortcode [rndtc_room_spy_page] in a page and publish.
-
-
-* `New version` Now shows all room data you would really need, Name, Biography, Last active, location and website.
+* Simply use shortcode [rndtc_room_spy_page] in a page and publish.
 
 == Notes ==
 
@@ -91,11 +87,15 @@ It'll show the images and selected data for who is in the room, number of users 
 
 * I'm currently testing a new version of this that I've created and will make it live very soon!
 
+= 1.2.3 =
+
+* Due to unforeseen circumstances I've decided to discontinue this plugin, This is still available on https://www.ruddernation.cf/directory
+
 == Social Sites ==
 
-* Tinychat - https://www.tinychat.cf
+* Tinychat - https://www.ruddernation.cf
 
-* Directory - https://www.tinychat-spy.com
+* Directory - https://www.ruddernation.cf/directory
 
 * Ezcape Chat - https://www.ezcapechat.cf/
 
@@ -106,3 +106,9 @@ It'll show the images and selected data for who is in the room, number of users 
 * GitHub - https://github.com/Ruddernation-Designs
 
 * WordPress - https://profiles.wordpress.org/ruddernationdesigns
+
+* Stack Overflow  - http://stackoverflow.com/users/5774880/ruddernation-designs
+
+== Contact Details ==
+
+* Email - support@ruddernation.com
