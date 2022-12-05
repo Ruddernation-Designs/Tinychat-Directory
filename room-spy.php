@@ -7,7 +7,7 @@
 * Description: Please use https://www.ruddernation.com/api 
 * Requires at least: WordPress 4.6
 * Tested up to: WordPress 5.4, Buddypress  5.0.0
-* Version: 1.2.4
+* Version: 1.2.5
 * License: MIT
 * License URI: https://opensource.org/licenses/MIT
 * Date: 05th December 2022
