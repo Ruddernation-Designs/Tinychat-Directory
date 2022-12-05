@@ -5,7 +5,7 @@ Donate link: https://www.paypal.me/RuddernationDesigns
 Tags: Tinychat room spy, Tinychat, chat, room spy, wordpress chat, buddypress chat, wordpress video chat, buddypress video chat, Ruddernation, Ruddernation Designs
 Requires at least: 5.0
 Tested up to: 5.4
-Stable tag: 1.2.4
+Stable tag: 1.2.5
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 
