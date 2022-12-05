@@ -10,9 +10,9 @@
 * Version: 1.2.4
 * License: MIT
 * License URI: https://opensource.org/licenses/MIT
-* Date: 09th March 2020
+* Date: 05th December 2022
 */
-define('COMPARE_VERSION', '1.2.3');
+define('COMPARE_VERSION', '1.2.4');
 defined( 'ABSPATH' ) or die( 'Clean your boots off!' );
 register_activation_hook(__FILE__, 'rndtc_room_spy_install');
 function rndtc_room_spy_install() {
