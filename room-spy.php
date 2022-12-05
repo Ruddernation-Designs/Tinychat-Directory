@@ -4,7 +4,7 @@
 * Plugin URI: https://wordpress.org/plugins/tc-room-spy/
 * Author: Ruddernation Designs
 * Author URI: https://profiles.wordpress.org/ruddernationdesigns
-* Description: Please use https://www.ruddernation.cf/directory 
+* Description: Please use https://www.ruddernation.com/api 
 * Requires at least: WordPress 4.6
 * Tested up to: WordPress 5.4, Buddypress  5.0.0
 * Version: 1.2.4
@@ -13,7 +13,7 @@
 * Date: 09th March 2020
 */
 define('COMPARE_VERSION', '1.2.3');
-defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
+defined( 'ABSPATH' ) or die( 'Clean your boots off!' );
 register_activation_hook(__FILE__, 'rndtc_room_spy_install');
 function rndtc_room_spy_install() {
 	global $wpdb, $wp_version;
@@ -44,7 +44,7 @@ function wp_show_rndtc_room_spy_page($content = '') {
 }
 function wp_show_rndtc_room_spy() {
 	if(!get_option('rndtc_room_spy_enabled', 0)) {
-		echo 'Please use the <a href="https://www.afcsh.org.uk/directory" target=/"_blank/">Tinychat Directory website<a>.';
+		echo 'Please use the <a href="https://www.ruddernation.com/api" target=/"_blank/">Tinychat API<a>.';
 		echo '<br>';
 	}
 	
