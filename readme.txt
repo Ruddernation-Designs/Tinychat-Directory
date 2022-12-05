@@ -93,22 +93,16 @@ It'll show the images and selected data for who is in the room, number of users 
 
 == Social Sites ==
 
-* Tinychat - https://www.ruddernation.cf
+* <a href="https://www.ruddernation.com"  rel="nofollow ugc">Developers Website</a>
 
-* Directory - https://www.ruddernation.cf/directory
+* <a href="https://profiles.wordpress.org/ruddernationdesigns"  rel="nofollow ugc">WordPress</a>
 
-* Ezcape Chat - https://www.ezcapechat.cf/
+* <a href="https://tinychat.com" rel="nofollow ugc">Tinychat</a>
 
-* Developers Website - https://www.ruddernation.com
+* <a href="https://www.ruddernation.com/privacy-policy/" rel="nofollow ugc">Privacy Policy for Ruddernation Designs</a>
 
-* Facebook Page - https://www.facebook.com/rndtinychat
-
-* GitHub - https://github.com/Ruddernation-Designs
-
-* WordPress - https://profiles.wordpress.org/ruddernationdesigns
-
-* Stack Overflow  - http://stackoverflow.com/users/5774880/ruddernation-designs
+* <a href="https://tinychat.com/privacy.html" rel="nofollow ugc">Privacy Policy for Tinychat</a>
 
 == Contact Details ==
 
-* Email - support@ruddernation.com
+* <a href="mailto:support@ruddernation.com" rel="nofollow ugc">Email</a> - Any issues then please contact me here.
